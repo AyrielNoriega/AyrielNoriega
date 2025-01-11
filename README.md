@@ -13,7 +13,7 @@ Soy un **Desarrollador Full Stack** con más de 5 años de experiencia en desarr
 
 ---
 
-## 🚀 Tecnologías y Herramientas
+## 🚀 Tecnologías y Herramientas 
 
 ### Lenguajes de Programación:
 
