@@ -1,6 +1,6 @@
 # 👋 Hola, soy **Ayriel Noriega**
 
-Soy un **Desarrollador Full Stack** con más de 5 años de experiencia en desarrollo y mantenimiento de software. Disfruto explorar la tecnología, la programación y desarrollar soluciones innovadoras que generen un impacto positivo en los proyectos en los que participo..
+Soy un **Desarrollador Full Stack** con más de 5 años de experiencia en desarrollo y mantenimiento de software. Disfruto explorar la tecnología, la programación y desarrollar soluciones innovadoras que generen un impacto positivo en los proyectos en los que participo.
 
 ---
 
@@ -73,12 +73,17 @@ Soy un **Desarrollador Full Stack** con más de 5 años de experiencia en desarr
 
 ---
 
+
+## 👨‍💻 Un Poco Más Sobre Mí
+
+- 🌱 Actualmente estoy aprendiendo sobre Arquitectura de Software y DevOps con Azure.
+- 💬 Pregúntame sobre desarrollo web, arquitectura de software, DevOps, automatización de tareas y prácticas de CI/CD.
+- ⚡ Fun fact: Disfruto andar en moto, explorar nuevos lugares y la fotografía.
+
 ## 📫 Cómo Contactarme
 
-**Correo:** [noriega\_2310@hotmail.com](mailto\:noriega_2310@hotmail.com)
-
 - **LinkedIn:** [Ayriel Noriega](https://www.linkedin.com/in/ayrielnoriega)
-- **Portafolio:** ayrielnoriega.com
+- **Portafolio:** [ayrielnoriega.com](https://ayrielnoriega.com/)
 
-¡Gracias por visitar mi perfil! 🚀
-
+<!-- ¡Gracias por visitar mi perfil! 🚀 -->
+¡Gracias por visitar mi perfil! 🙏
