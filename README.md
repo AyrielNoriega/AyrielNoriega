@@ -69,13 +69,13 @@ Soy un **Desarrollador Full Stack** con más de 5 años de experiencia en desarr
 
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=AyrielNoriega&show_icons=true&theme=radical)
 
-
+<!-- 
 ## 🛤️ Progreso del Roadmap
 Aquí puedes ver el progreso de mi roadmap de aprendizaje y desarrollo:
 
 ![Progreso Roadmap](https://roadmap.sh/card/tall/6782adeb70129741a8191c8f?variant=dark)
 
----
+--- -->
 
 
 ## 👨‍💻 Un Poco Más Sobre Mí
@@ -83,6 +83,7 @@ Aquí puedes ver el progreso de mi roadmap de aprendizaje y desarrollo:
 - 🌱 Actualmente estoy aprendiendo sobre Arquitectura de Software y DevOps con Azure.
 - 💬 Pregúntame sobre desarrollo web, arquitectura de software, DevOps, automatización de tareas y prácticas de CI/CD.
 - ⚡ Fun fact: Disfruto andar en moto, explorar nuevos lugares y la fotografía.
+
 
 ## 📫 Cómo Contactarme
 
